@@ -32,7 +32,7 @@
                 <NavLink
                     href="https://kwr-informatik-ag.github.io/learn/"
                     target="_self"
-                ></NavLink>
+                >Lernwebsite</NavLink>
             </NavItem>
             <!--<NavItem>
                 <NavLink
