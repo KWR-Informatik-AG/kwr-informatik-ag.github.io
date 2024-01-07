@@ -30,10 +30,16 @@
         <Nav class="ms-auto" navbar>
             <NavItem>
                 <NavLink
-                    href="https://kwr-hannover.de/"
-                    target="_blank"
-                >Hauptseite</NavLink>
+                    href="https://kwr-informatik-ag.github.io/learn/"
+                    target="_self"
+                ></NavLink>
             </NavItem>
+            <!--<NavItem>
+                <NavLink
+                    href="https://kwr-hannover.de/"
+                    target="_self"
+                >Hauptseite</NavLink>
+            </NavItem>-->
             <NavItem>
                 <NavLink
                     href="https://kwr-informatik-ag.github.io/documentation/"
