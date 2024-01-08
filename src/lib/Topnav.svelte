@@ -30,7 +30,7 @@
         <Nav class="ms-auto" navbar>
             <NavItem>
                 <NavLink
-                    href="https://kwr-informatik-ag.github.io/learn/"
+                    href="https://kwr-informatik-ag.github.io/learn/de"
                     target="_self"
                 >Lernwebsite</NavLink>
             </NavItem>
